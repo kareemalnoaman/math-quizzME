@@ -1,0 +1,14 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #0635ee;
+    color: #f1ebeb;
+    font-size: 16px;
+    line-height: 1.6;
+}
